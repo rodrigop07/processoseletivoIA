@@ -1,2 +1,4 @@
-tensorflow>=2.12
+tensorflow
 numpy
+tensorflow-model-optimization
+tf_keras
